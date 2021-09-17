@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/finall-project/static/css/main.8fe4ad2c.chunk.css",
-    "main.js": "/finall-project/static/js/main.905984d6.chunk.js",
-    "main.js.map": "/finall-project/static/js/main.905984d6.chunk.js.map",
+    "main.js": "/finall-project/static/js/main.3a8b1fb7.chunk.js",
+    "main.js.map": "/finall-project/static/js/main.3a8b1fb7.chunk.js.map",
     "runtime-main.js": "/finall-project/static/js/runtime-main.32257d1e.js",
     "runtime-main.js.map": "/finall-project/static/js/runtime-main.32257d1e.js.map",
-    "static/js/2.5de5afd1.chunk.js": "/finall-project/static/js/2.5de5afd1.chunk.js",
-    "static/js/2.5de5afd1.chunk.js.map": "/finall-project/static/js/2.5de5afd1.chunk.js.map",
+    "static/js/2.be910052.chunk.js": "/finall-project/static/js/2.be910052.chunk.js",
+    "static/js/2.be910052.chunk.js.map": "/finall-project/static/js/2.be910052.chunk.js.map",
     "static/js/3.750b6b24.chunk.js": "/finall-project/static/js/3.750b6b24.chunk.js",
     "static/js/3.750b6b24.chunk.js.map": "/finall-project/static/js/3.750b6b24.chunk.js.map",
     "index.html": "/finall-project/index.html",
     "static/css/main.8fe4ad2c.chunk.css.map": "/finall-project/static/css/main.8fe4ad2c.chunk.css.map",
-    "static/js/2.5de5afd1.chunk.js.LICENSE.txt": "/finall-project/static/js/2.5de5afd1.chunk.js.LICENSE.txt"
+    "static/js/2.be910052.chunk.js.LICENSE.txt": "/finall-project/static/js/2.be910052.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32257d1e.js",
-    "static/js/2.5de5afd1.chunk.js",
+    "static/js/2.be910052.chunk.js",
     "static/css/main.8fe4ad2c.chunk.css",
-    "static/js/main.905984d6.chunk.js"
+    "static/js/main.3a8b1fb7.chunk.js"
   ]
 }
